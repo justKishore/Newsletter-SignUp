@@ -1,0 +1,10 @@
+h1 {
+  font-weight: 400 !important;
+}
+.success {
+  background-color: #2fdd92dc !important;
+}
+
+.failure {
+  background-color: #ff000077 !important;
+}
